@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Gacha_GenericDesc_1>The machine has produced: {0}.\n\nIt could've been nothing.</Gacha_GenericDesc_1>
-  <Gacha_GenericDesc_2>The cycle produces: {0}.\n\nIt’s warm and slightly dusty, with a faint smell of ozone.</Gacha_GenericDesc_2>
-  <Gacha_GenericDesc_3>Inside the tray you find: {0}.\n\nIt seems a little bashed.</Gacha_GenericDesc_3>
+  <Gacha_GenericDesc_1>The machine has produced:\n\n{0}.\n\nIt could've been nothing...</Gacha_GenericDesc_1>
+  <Gacha_GenericDesc_2>The gacha machine produced:\n\n{0}.\n\nIt’s slightly dusty, with a faint smell of ozone...</Gacha_GenericDesc_2>
+  <Gacha_GenericDesc_3>The gacha machine's tray contains:\n\n{0}.\n\nIt seems a little bashed...</Gacha_GenericDesc_3>
 
-  <Gacha_GoodDesc_1>You look in the tray, and it holds: {0}.\n\nIt looks well-assembled and solid.</Gacha_GoodDesc_1>
-  <Gacha_GoodDesc_2>In the tray, you find: {0}.\nIt seems like it could be useful enough.</Gacha_GoodDesc_2>
+  <Gacha_GoodDesc_1>The gacha machine's tray holds:\n\n{0}.\n\nIt looks well-assembled?</Gacha_GoodDesc_1>
+  <Gacha_GoodDesc_2>The gacha machine's tray contains:\n\n{0}.\n\nIt seems like it might be useful?</Gacha_GoodDesc_2>
 
-  <Gacha_GreatDesc_1>The machine has produced: {0}.\n\nA ticket flutters alongside it with congratulations, asking you to call an 0345 number.</Gacha_GreatDesc_1>
-  <Gacha_GreatDesc_2>You find: {0}, having landed in the tray with a soft thump.\n\nIt’s flawless, slightly heavier than expected, and smells faintly like a new car.</Gacha_GreatDesc_2>
+  <Gacha_GreatDesc_1>The gacha machine has produced:\n\n{0}.\n\nA ticket flutters alongside it with congratulations, asking you to call a premium number.</Gacha_GreatDesc_1>
+  <Gacha_GreatDesc_2>Landing in the gacha machine's tray with a soft thump, is:\n\n{0}.\n\nIt seems flawless, slightly heavier than expected, and smells faintly like a new car.</Gacha_GreatDesc_2>
 
-  <Gacha_NothingDesc_1>After a full cycle, the machine produced... nothing.\n\nYou wait a while, wondering what happened.</Gacha_NothingDesc_1>
-  <Gacha_NothingDesc_2>The machine finishes its cycle, and small letter falls gently to the tray.\n\nThe letter has a pattern of smiley faces and "no refunds" printed across it several times.</Gacha_NothingDesc_2>
-  <Gacha_NothingDesc_3>The cycle complete, you hear a whirring sound and upon checking the tray underneath, it contains... nothing.</Gacha_NothingDesc_3>
-  <Gacha_NothingDesc_4>Nothing seems to have been produced.\n\nSomeone checks the machine over and determines it seems to be functioning as designed.</Gacha_NothingDesc_4>
-  <Gacha_NothingDesc_5>The machine stops whirring, and... the tray is empty.\n\nA sentence above the tray shines brighter than before: "NO REFUNDS".</Gacha_NothingDesc_5>
-  <Gacha_NothingDesc_6>The machine goes quiet, but the tray is empty. Check again later, maybe?</Gacha_NothingDesc_6>
+  <Gacha_NothingDesc_1>After a bit of a wait, the gacha machine produced:\n\n...nothing.\n\What happened? Maybe wait a while?</Gacha_NothingDesc_1>
+  <Gacha_NothingDesc_2>The gacha machine finishes, and a small letter flutters into the tray.\n\nIt has a pattern of smiley faces and "PLEASE TRY AGAIN" printed across it several times.</Gacha_NothingDesc_2>
+  <Gacha_NothingDesc_3>The gacha machine stops making whirring sounds, and upon inspection of the tray underneath, it contains:\n\n...nothing at all.</Gacha_NothingDesc_3>
+  <Gacha_NothingDesc_4>Nothing seems to have been produced.\n\nSomeone checks the machine over, and determines that it really is functioning as designed.</Gacha_NothingDesc_4>
+  <Gacha_NothingDesc_5>The gacha machine stops whirring, and... the tray is empty.\n\nA statement on the panel shines brighter than before:\n\n"NO REFUNDS".</Gacha_NothingDesc_5>
+  <Gacha_NothingDesc_6>The gacha machine goes quiet, but the tray is empty. Check again later, maybe?</Gacha_NothingDesc_6>
 
 </LanguageData>
