@@ -4,6 +4,6 @@
 		<li>Common</li>
 		<li>1.6</li>
 		<li IfModActive="Ludeon.RimWorld.Royalty">Compatibility/Ludeon.RimWorld.Royalty</li>
-    	<li IfModActive="cp.uncle.boris.brainwash.chair">Compatibility/UncleBorisBrainwashChair</li>
+    <li IfModActive="sarg.alpharandom">Compatibility/AlphaRandom/1.6</li>
 	</v1.6>
 </loadFolders>
