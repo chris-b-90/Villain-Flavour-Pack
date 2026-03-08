@@ -3,7 +3,7 @@
   <XenotypeDef>
     <defName>MSSV_Hero</defName>
     <label>Hero</label>
-    <description>Heroes are the powerful, highly-trained, combat experts deployed by the Hero Association to stop any disaster, natural or otherwise. Though their powers vary wildly, all heroes have a shared physical baseline of increased strength, durability, and an inate bravery.</description>
+    <description>Heroes are the powerful, highly-trained, combat experts deployed by the Hero Association to stop any disaster, natural or otherwise. Though their powers vary wildly, all heroes have a shared physical baseline of increased strength, durability, and an innate bravery.</description>
     <descriptionShort>Heroes are the elite combat units of the Hero Association.</descriptionShort>
     <iconPath>Xenotypes/BS_Lilim</iconPath>
     <inheritable>true</inheritable>
